@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Mojahidul Islam Emon
-- 👀 I’m interested in Apps Development & Web Development...
-- 🌱 I’m currently learning Web Development & Android Apps Development, I am a beginner so I am seeking for help as much as I can get...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me t.me/itsemon245...
+- 💖 May God's Mercy & Peace Be Upon You
+- 👋 Hello, I’m Mojahidul Islam Emon
+- 👀 I’m a Web Developer (front end mainly)
+- 🌱 I am quite fluent with technologies like `Tailwind CSS`, `Reac Js`, `Git` & finding solutions for problem
+- 💞️ I’m currently learning `laravel development` & wish to become very good at it soon
+- 👍 I hope you wish me luck & have a great day
+- 📫 If you need any help reach out to me on [Facebook](https://www.facebook.com/itsemon245/)
 
 <!---
 bdemon245/bdemon245 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
