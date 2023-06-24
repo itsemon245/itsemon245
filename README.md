@@ -1,9 +1,9 @@
 - 💖 May God's Mercy & Peace Be Upon You
 - 👋 Hello, I’m Mojahidul Islam Emon
-- 👀 I’m a Web Developer (front end mainly)
-- 🌱 I am quite fluent with technologies like `Tailwind CSS`, `Reac Js`, `Git` & finding solutions for problem
-- 💞️ I’m currently learning `laravel development` & wish to become very good at it soon
-- 👍 I hope you wish me luck & have a great day
+- 💻 I’m a Full Stack Web Developer
+- 🌱 I am quite comfortable working with technologies like `JavaScript`,`jQuery`, `Bootstrap`, `Tailwind CSS`, `VueJs`, `Reac Js`, `Laravel` &  other useful programs like `Git` & `Linux`
+- I find enjoyment in finding solution for different problems.
+- 💞️ Although I am not an expert and nor do I am all knowing in my stack. Slowly but surely I am getting there.
 - 📫 If you need any help reach out to me on [Facebook](https://www.facebook.com/itsemon245/)
 
 <!---
