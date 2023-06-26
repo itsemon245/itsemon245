@@ -8,18 +8,17 @@
 <br/>
 
 ### My Skillset:
-  - #### Basics:
-    > <img align="left" title="Visual Studio Code"  alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+  - #### Languages:
     > <img align="left" title="HTML 5" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
     > <img align="left" title="CSS 3" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
     > <img align="left" title="SASS" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
     > <img align="left" title="JavaScript" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+    > <img align="left" title="Typescript" alt="Typescript" width="26px" src="https://api.iconify.design/logos:typescript-icon.svg" style="padding-right:10px;" />
     <br/>
   - #### Frontend Technologies:
     > <img align="left" title="Bootstrap" alt="Bootstrap" width="26px" src="https://api.iconify.design/logos:bootstrap.svg" style="padding-right:10px;" />
     > <img align="left" title="Tailwind CSS" alt="Tailwind" width="26px" src="https://api.iconify.design/logos:tailwindcss-icon.svg" style="padding-right:10px;" />
     > <img align="left" title="jQuery" alt="jQuery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="padding-right:10px;" />
-    > <img align="left" title="Typescript" alt="Typescript" width="26px" src="https://api.iconify.design/logos:typescript-icon.svg" style="padding-right:10px;" />
     > <img align="left" title="Vue" alt="Vue" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
     > <img align="left" title="React" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
     <br/>
@@ -30,6 +29,7 @@
     <img align="left" title="REST API" alt="Rest API Icon" width="26px" src="https://api.iconify.design/mdi:api.svg?color=%23e66100" style="padding-right:10px;" />
     <br/>
   - #### Tools
+    > <img align="left" title="Visual Studio Code"  alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
     > <img align="left" title="Git" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
     <img align="left" title="Github" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
     <img align="left" title="Linux" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
