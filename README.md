@@ -3,7 +3,7 @@
 <br/>
 
 ### Reach out to me:
-  [<img align="left" title="Email itsemon245@gmail.com" width="28px" src="https://api.iconify.design/line-md:email-alt-twotone.svg?color=%2333d17a" style="margin-right:10px;margin-bottom:4px;" />](mailto:itsemon245@gmail.com)
+  [<img align="left" title="Email itsemon245@gmail.com" width="26px" src="https://api.iconify.design/logos:google-gmail.svg?color=%2333d17a" style="margin-right:10px;" />](mailto:itsemon245@gmail.com)
   [<img align="left" title="facebook.com/itsemon245"  alt="Facebook Icon" width="24px" src="https://api.iconify.design/logos:facebook.svg" style="margin-right:10px;" />](https://www.facebook.com/itsemon245/)
   [<img align="left" title="itsemon245"  alt="Messenger Icon" width="24px" src="https://api.iconify.design/logos:messenger.svg" style="margin-right:10px;" />](https://messenger.com/itsemon245/)
   <br/>
