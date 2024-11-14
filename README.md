@@ -1,10 +1,13 @@
-### Hello There;
-- 💖 May God's Mercy & Peace Be Upon You
-- 👋 My name is Mojahidul Islam Emon
-- 💻 I’m a Software Developer & a Linux fanboy.
-- 🌱 I am quite comfortable working with technologies like `JavaScript`, `TypeScript`,`jQuery`, `Bootstrap`, `Tailwind CSS`, `VueJs`, `React Js`, `Laravel` &  other useful programs like `Git`, `Linux`, `Docker` & `Nix`
-- I enjoy finding solutions for real world problems.
+# 👋 Hey there, I'm Mojahid!
+**A Software Developer, Linux fan boy & a professional at reading memes online.<br> I enjoy solving problems created by other Devs specially the ones created by me.<br/>Oh did I tell you that I don't use Arch BTW.**
 <br/>
+
+### Reach out to me:
+  [<img align="left" title="Email itsemon245@gmail.com" width="28px" src="https://api.iconify.design/line-md:email-alt-twotone.svg?color=%2333d17a" style="margin-right:10px;margin-bottom:4px;" />](mailto:itsemon245@gmail.com)
+  [<img align="left" title="facebook.com/itsemon245"  alt="Facebook Icon" width="24px" src="https://api.iconify.design/logos:facebook.svg" style="margin-right:10px;" />](https://www.facebook.com/itsemon245/)
+  [<img align="left" title="itsemon245"  alt="Messenger Icon" width="24px" src="https://api.iconify.design/logos:messenger.svg" style="margin-right:10px;" />](https://messenger.com/itsemon245/)
+  <br/>
+  <br/>
 
 ### Stacks:
   - #### Languages:
@@ -49,10 +52,12 @@
 <br />
 <br />
 
-### Reach out to me:
- [<img align="left" title="facebook.com/itsemon245"  alt="Facebook Icon" width="26px" src="https://api.iconify.design/logos:facebook.svg" style="margin-right:10px;" />](https://www.facebook.com/itsemon245/)
- [<img align="left" title="itsemon245"  alt="Messenger Icon" width="26px" src="https://api.iconify.design/logos:messenger.svg" style="margin-right:10px;" />](https://messenger.com/itsemon245/)
- [<img align="left" title="twitter.com/rjemon245"  alt="Twitter Icon" width="26px" src="https://api.iconify.design/logos:twitter.svg" style="margin-right:10px;" />](https://www.twitter.com/rjemon245/)
- [<img align="left" title="itsemon245"  alt="Telegram Icon" width="26px" src="https://api.iconify.design/logos:telegram.svg" style="margin-right:10px;" />](https://t.me/itsemon245/)
-<br/>
+ 
+ <h3>💻 GitHub Profile Stats</h3>
+ <!-- https://github.com/anuraghazra/github-readme-stats -->
+  <a href="#"><img alt="Mojahidul Islam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=itsemon245&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+ <a href="#"> <img alt="Mojahidul Islam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=itsemon245&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
