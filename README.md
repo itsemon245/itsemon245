@@ -1,10 +1,9 @@
 ### Hello There;
 - 💖 May God's Mercy & Peace Be Upon You
 - 👋 My name is Mojahidul Islam Emon
-- 💻 I’m a Full Stack Web Developer
+- 💻 I’m a Software Developer.
 - 🌱 I am quite comfortable working with technologies like `JavaScript`,`jQuery`, `Bootstrap`, `Tailwind CSS`, `VueJs`, `Reac Js`, `Laravel` &  other useful programs like `Git` & `Linux`
 - I find enjoyment in finding solution for different problems.
-- 💞️ Although I am not an expert and nor do I am all knowing in my stack. Slowly but surely I am getting there.
 <br/>
 
 ### My Skillset:
