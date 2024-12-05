@@ -4,11 +4,9 @@ on:
     branches: ['main']
 jobs:
   Job:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
-    - name: Converts markdown text to HTML
-      uses: jaywcjlove/markdown-to-html-cli@v4.1.0
-      with:
-        source: README.md
-        output: index.html
-        github-corners: https://github.com/jaywcjlove/markdown-to-html-cli
+    - run: ls -al
+    - run: npm i markdown-to-html-cli -g
+    - run: markdown-to-html --output index.html
+    - run: markdown-to-html --source README.md --output index.html
