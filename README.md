@@ -29,6 +29,7 @@
     > <img align="left" title="jQuery" alt="jQuery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="padding-right:10px;" />
     > <img align="left" title="Vue" alt="Vue" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
     > <img align="left" title="React" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+    > <img align="left" title="Next JS" alt="Next JS" width="26px" src="https://api.iconify.design/devicon:nextjs.svg?color=%238c4545" style="padding-right:10px;" />
     <br/>
   - #### Backend Technologies
     > <img align="left" title="Larvel" alt="Laravel" width="32px" src="https://avatars.githubusercontent.com/u/958072" style="padding-right:10px;" />
